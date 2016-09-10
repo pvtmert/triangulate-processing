@@ -4,7 +4,7 @@ A processing application, which uses pre-computed triangulated and original vers
 
 If you are using android mode, due to blending problems and low framerate on android, use <code>is_android = true</code>.
 
-For desktop (Windows, Mac, Linux) use <code>is_android</false> and draw/paint on the screen as you do in paint :)
+For desktop (Windows, Mac, Linux) use <code>is_android = false</code> and draw/paint on the screen as you do in paint :)
 
 # License: MIT
 
