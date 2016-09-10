@@ -8,4 +8,4 @@ For desktop (Windows, Mac, Linux) use <code>is_android</false> and draw/paint on
 
 # License: MIT
 
-see [LICENSE](./license)
+see [license](./LICENSE) file
